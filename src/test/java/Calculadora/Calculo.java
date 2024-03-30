@@ -8,7 +8,7 @@ public class Calculo {
 		// TODO Auto-generated method stub
 		Operacoes operacoes = new Operacoes();
 		
-		operacoes.soma(50, 25);
+		operacoes.soma(50, 25, 5);
 		
 		operacoes.subtracao(50, 25);
 		
